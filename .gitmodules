@@ -1,0 +1,6 @@
+[submodule "WinScanExternalBarcodeClienUI"]
+	path = WinScanExternalBarcodeClienUI
+	url = https://github.com/gclaassen/WinScanExternalBarcodeClienUI.git
+[submodule "WinScanExternalBarcodeServer"]
+	path = WinScanExternalBarcodeServer
+	url = https://github.com/gclaassen/WinScanExternalBarcodeServer.git
